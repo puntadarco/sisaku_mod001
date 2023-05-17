@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sisakumod:block/sisaku_block"
+    }
+  }
+}
